@@ -1,0 +1,2 @@
+g++ threads.cpp -o thread
+g++ pthread.cpp -o pthread

@@ -1,0 +1,12 @@
+1)gcc -shared -o liblist.so list.c
+либо
+gcc -shared -o liblist.so list.c -fPIC
+
+2)gcc -o main main.c -L. -llist
+./main
+
+если не вышло то
+
+2)sudo cp liblist.so /usr/lib
+sudo ldconfig
+./main

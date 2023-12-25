@@ -1,0 +1,5 @@
+gcc lab13em-2.c -lpthread -lrt -o lab13em-2
+gcc lab13e-1.c -lpthread -lrt -o lab13e-1
+gcc lab13d-1.c -lrt -o lab13d-1
+g++ lab13c-2.c -o lab13c-2
+g++ lab13b.c -o lab13b

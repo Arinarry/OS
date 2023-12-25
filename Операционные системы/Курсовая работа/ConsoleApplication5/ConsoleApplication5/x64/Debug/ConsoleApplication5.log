@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+D:\Users\arina\Source\Repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(37,2): warning C4091: typedef : пропускается слева от "IPHeader", когда ни одна переменная не объявлена
+D:\Users\arina\Source\Repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(44,17): warning C4101: wsadata: неиспользованная локальная переменная
+  ConsoleApplication5.vcxproj -> D:\Users\arina\Source\Repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe

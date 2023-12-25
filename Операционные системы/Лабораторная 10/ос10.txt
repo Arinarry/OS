@@ -1,0 +1,4 @@
+g++ lab9.c -o lab9
+g++ peterson.cpp -o peterson -pthread
+g++ threads.cpp -o thread
+g++ pthread.cpp -o pthread
